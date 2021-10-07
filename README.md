@@ -1,5 +1,7 @@
 ## Welcome to Code Mentoring GitHub Pages
 
+[Code Mentoring Web Site](https://hepaestus.github.io/code-mentoring)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
